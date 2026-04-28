@@ -1,3 +1,9 @@
+CONFIG_PACKAGE_kmod-ifb=y
+CONFIG_PACKAGE_kmod-sched-core=y
+CONFIG_PACKAGE_kmod-sched-cake=y
+CONFIG_PACKAGE_tc=y
+CONFIG_PACKAGE_sqm-scripts=y
+CONFIG_PACKAGE_luci-app-sqm=y
 # conntrack 工具
 CONFIG_PACKAGE_conntrack=y
 CONFIG_PACKAGE_conntrack-tools=y
